@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="88" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Fri Sep 21 17:04:12 2018
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">lucas</m>
+<m key="dc.date">Fri Sep 21 14:32:52 2018
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="9" edit-time="11595" last-saved="1537542252" uid="10bed158-bd96-11e8-8611-f9f74d11a8cb">
+<version id="9" started="1537533172" uid="995fde30-bdaf-11e8-8611-f9f74d11a8cb" auto="0" top-xid="39"/>
+</history>
+<styles>
+<s type="P" name="Heading 1" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:DejaVu Sans; font-size:17pt"/>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+<s type="P" name="Heading 2" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:DejaVu Sans; font-size:14pt"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="9" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Heading 1" xid="10" props="text-align:center"><c>Cybernétique</c></p>
+<p style="Normal" xid="1" props="text-align:center"><c>machines et politique</c></p>
+<p style="Normal" xid="4" props="text-align:center"><c></c></p>
+<p style="Normal" xid="5" props="text-align:left"><c>2 ouvrages : Théorie générale de l’info. comm. et Le Littératron</c></p>
+<p style="Normal" xid="6" props="text-align:left"><c>Accord d’une grande importance de l’imaginaire.</c></p>
+<p style="Normal" xid="7" props="text-align:left"><c>Questionnement des expectatives de la création d’une intelligence artificielle. Voir théorie mathématique de l’information.</c></p>
+<p style="Normal" xid="8" props="text-align:left"><c>Les informations humaines ne peuvent pas rentrer dans un système probabiliste.</c></p>
+<p style="Normal" xid="12" props="text-align:left"><c></c><c>L’enjeu est le façonnage de l’homme compatible, sa compatibilité avec la machine est celle de la compatibilité avec les intentions (politiques) de son concepteur. </c></p>
+<p style="Normal" xid="13" props="text-align:left"><c>Aujourd’hui on a réussi a le faire grâce au profilage informatique en l’enfermant dans un système probabiliste continu et persistant (machine learning)-&gt; modélisation du comportement humain pour piloter son action sur le monde (organisation </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">des conditions de possibilités de l</c><c>’action</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> : gouverner).</c></p>
+<p style="Normal" xid="16" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">La motivation Frankenstein : création d’une personnalité artificielle a laquelle il serrait possible d’imposer des déterminations.</c></p>
+<p style="Normal" xid="17" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Automatisation des pensées oratoires en la simulant dans les machines : c’est la même recherche que «l’esclave perdu».</c></p>
+<p style="Normal" xid="19" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Intuition médiologique : «la contrainte du canal préforme le message»</c></p>
+<p style="Normal" xid="20" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">«il est possible pour le programmeur de filtrer l’information d’entrée, choisir les signaux qui seront amplifiés.... il est donc essentiel d’identifier le programmeur  ou du moins connaître ses intentions» </c></p>
+<p style="Normal" xid="21" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Politique des algorithmes ? Finalités ? Économie de l’attention</c></p>
+<p style="Normal" xid="22" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">«Le rêve cybernetique s’évanouit devant l’épreuve du langage» </c></p>
+<p style="Normal" xid="23" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Il est impossible de produire de nouveaux énoncés car la statistique inférentielle est condamnée à l’imitation» </c></p>
+<p style="Normal" xid="24" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p style="Normal" xid="25" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Le Littératron porte sur l’anticipation scientifique au présent, narration fictive ancrée dans le réel. L’hypothèse d’une machine à mots qui produit des énoncés sur la base d’une statistique probabiliste.</c></p>
+<p style="Normal" xid="27" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Principe de réalité, inscription de l’innovation à l’intérieur d’un réseau d’acteurs qui conditionne sa trajectoire.</c></p>
+<p style="Normal" xid="30" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p style="Normal" xid="31" props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Les années 60 consacrent le suffixe -tron puis le préfixe -télé</c></p>
+<p style="Normal" xid="32" props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Des années 80 à 2000 c’est le préfixe cyber qui va dominer la vulgate technologique. Depuis les années 2000 c’est l’épithète 2.0 puis aujourd’hui le préfixe Smart.</c></p>
+<p style="Normal" xid="33" props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p style="Normal" xid="34" props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">La littératronique : point de passage obligé ?</c></p>
+<p style="Normal" xid="35" props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Emergence de la figure du technoprophète et sa rhétorique prosélyte.</c></p>
+<p style="Normal" xid="36" props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Prophétie autoréalisatrice et progressisme conservateur.</c></p>
+<p style="Normal" xid="37" props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Champs d’applications du littératron : politique, complexe militaro industriel...</c></p>
+<p style="Normal" xid="38" props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p style="Normal" xid="39" props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p style="Normal" xid="29" props="text-align:left"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> </c></p>
+<p style="Heading 1" xid="26" props="text-align:center"><c props="lang:fr-FR">La valeur chez Escarpit : une opportunité pour les SIC et les Humanités Digitales</c></p>
+<p style="Normal" xid="43"><c props="lang:fr-FR"></c></p>
+<p style="Heading 2" xid="44"><c props="lang:fr-FR">Valeur informationnelle et les masses chez Escarpit</c></p>
+<p style="Normal" xid="48"><c props="lang:fr-FR">L’hypothèse du marxisme est invalidée car il fonctionne sur un mécanisme de classes.</c></p>
+<p style="Normal" xid="52"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="51"><c props="lang:fr-FR">Théorie de l’information:</c></p>
+<p style="Normal" xid="50"><c props="lang:fr-FR">Information et observation(observateur rationnel dans le réseau)-&gt;Perception des évènements(prisme de l’événement, captation des variations sous forme d’unités discrètes)-&gt;Processus de communication(Valeur informationnelle de l’événement et de paramètres : Entropique (probabilité-&gt;Quanti-&gt;Numératie), Situation (pertinence-&gt;Quali-&gt;Littératie), Enjeu (Effet-&gt;Conflit des interprétations))-&gt;Le médium(L’importance des prothèses pour saisir, transmettre, conserver, combiner)-&gt;La performance(dépend du nombre, de la variété de la redondance des interconnexions)</c></p>
+<p style="Normal" xid="53"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="54"><c props="lang:fr-FR">L’activité de la pensée sont liées aux technologies réalisant une «prise de forme» originale, cette opération transforma la relation entre l’écrit et la technique dans un couplage en recherche d’une métastabilité qui exprime les changements suivants : </c></p>
+<p style="Normal" xid="55"><c props="lang:fr-FR">	- Changement du statut du connaissable</c></p>
+<p style="Normal" xid="56"><c props="lang:fr-FR">	- La transformation des technologies intellectuelles</c></p>
+<p style="Normal" xid="57"><c props="lang:fr-FR">Le formatage de l’activité cognitive est orientée par le format des informations technique.</c></p>
+<p style="Normal" xid="58"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="59"><c props="lang:fr-FR">Le tournant digital représente la valeur communicationnelle en utilisant la modélisation et la simulation. production d’une réponse à la question : comment pratiquer le savoir partager ?</c></p>
+<p style="Normal" xid="61"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="63"><c props="lang:fr-FR">Conditions à la transdisciplinarité : ouvrir la rationalité descriptive du document à une logique de l’usage socialisé des inscriptions par et dans les disciplines, relier le document à une pluralité d’interprétation pour organiser une novelle exégèse.</c></p>
+<p style="Heading 2" xid="68"><c props="lang:fr-FR">La valeur communicationnelle et les Humanités Digitales </c></p>
+<p style="Normal" xid="47"><c props="lang:fr-FR">Possibilité de se parler entre les disciplines, mode dialogique permettant de se dépasser et d’inventer un régime vivant de la connaissance dans l’interconnexion.</c></p>
+<p style="Normal" xid="66"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="67"><c props="lang:fr-FR; font-size:22pt; font-weight:bold">CORMERAIS EST TOTALEMENT INCOMPREHENSIBLE</c></p>
+<p style="Normal" xid="69"><c props="lang:fr-FR; font-size:12pt; font-weight:normal">Les SIC et l’ouverture anthropologique : </c></p>
+<p style="Normal" xid="70"><c props="lang:fr-FR; font-size:12pt; font-weight:normal">Du partage des corpus à l’anthropologie du pointe de vue digital</c></p>
+<p style="Normal" xid="71"><c props="lang:fr-FR; font-size:12pt; font-weight:normal">Une culture digitale à inventer</c></p>
+<p style="Normal" xid="72"><c props="lang:fr-FR; font-size:12pt; font-weight:normal">La figure du lettré du numérique</c></p>
+<p style="Normal" xid="73"><c props="lang:fr-FR; font-size:12pt; font-weight:normal"></c></p>
+<p style="Heading 1" xid="74" props="text-align:center"><c props="lang:fr-FR">Table ronde</c></p>
+<p style="Normal" xid="75"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="76"><c props="lang:fr-FR">Etude de la documentologie, qu’est ce qu’un document, quelle forme prend-il ? qu’est ce qu’un document numérique ? les définitions données à l’époque sont aujourd’hui douteuses... les documents ne sont pas seulement des contrats de lecture entre les hommes</c></p>
+<p style="Normal" xid="77"><c props="lang:fr-FR">Qui sont les producteurs, interprètes des documents ?</c></p>
+<p style="Normal" xid="78"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="79"><c props="lang:fr-FR">Pas de relation directe entre créateur et lecteurs, mais plusieurs petits opérateurs dans le process.Le système doit s’adapter aux nouveaux modes de production des documents et la façon de les rechercher. Les œuvres sont conditionnées par la façon dont elles ont été conçues. Dans le numérique, la place de la façon de rechercher le document est importante. Les données de la recherche prennent des formes extrêmement variées mais une normalisation de cette forme va se former suite à l’entrée d’outils de recherche (moteur de recherche de données de la recherche Google). Espaces documentaires en expansion constante.</c></p>
+<p style="Normal" xid="80"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="81"><c props="lang:fr-FR">Réflexion, mise en place d’un cadre et d’outils standards afin de créer un cadre un peu plus défini sur les documents.</c></p>
+<p style="Normal" xid="82"><c props="lang:fr-FR">Il existe des différences entre les documents originaux et les documents transcrits.</c></p>
+<p style="Normal" xid="83"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="84"><c props="lang:fr-FR">Renversement dans le web, le document n’est plus central mais ses métadonnées le sont. C’est l’usage qui a imposé la norme.</c></p>
+<p style="Normal" xid="87"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="88"><c props="lang:fr-FR">Par exemple avec Twitter, on peut former un «document» au travers d’un corpus de tweets et ainsi retracer historiquement une suite d’évènements.</c></p>
+<p style="Normal" xid="85"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="86"><c props="lang:fr-FR"></c></p>
+</section>
+</abiword>
