@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="31" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Tue Dec  4 11:05:07 2018
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Tue Dec  4 11:05:07 2018
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="1763" last-saved="1543917907" uid="9c4483e2-f7a9-11e8-91b6-aebf81232ae1">
+<version id="1" started="1543917907" uid="13cd2016-f7ac-11e8-91b6-aebf81232ae1" auto="0" top-xid="29"/>
+</history>
+<styles>
+<s type="P" name="Heading 1" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:17.000000pt"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="margin-top:0.000000pt; color:000000; font-size:12.000000pt; text-indent:0.000000pt; margin-bottom:0.000000pt; line-height:1.000000; bgcolor:ffffff; text-align:left; font-family:Times New Roman"/>
+<s type="P" name="Arrowhead List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Block Text" basedon="Normal" props="margin-bottom:6.000000pt; margin-right:72.000000pt; margin-left:72.000000pt"/>
+<s type="P" name="Box List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Bullet List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Chapter Heading" basedon="Numbered Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Contents 1" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Contents 2" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:72.000000pt"/>
+<s type="P" name="Contents 3" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:108.000000pt"/>
+<s type="P" name="Contents 4" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:144.000000pt"/>
+<s type="P" name="Contents Header" basedon="Normal" followedby="_Normal" props="text-align:center; margin-top:12.000000pt; font-weight:bold; margin-bottom:6.000000pt; font-family:Liberation Sans; font-size:16.000000pt"/>
+<s type="P" name="Dashed List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Diamond List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Endnote" basedon="Normal" props="text-indent:-14.400000pt; margin-left:14.400000pt"/>
+<s type="C" name="Endnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Endnote Text" basedon="Normal"/>
+<s type="P" name="Footnote" basedon="Normal" props="text-indent:-14.400000pt; font-size:10.000000pt; margin-left:14.400000pt"/>
+<s type="C" name="Footnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Footnote Text" basedon="Normal" props="font-size:10.000000pt"/>
+<s type="P" name="Hand List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Heading 2" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:14.000000pt"/>
+<s type="P" name="Heading 3" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:12.000000pt"/>
+<s type="P" name="Heading 4" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:12.000000pt"/>
+<s type="P" name="Heart List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Implies List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Roman List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Numbered Heading 1" basedon="Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 2" basedon="Heading 2" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 3" basedon="Heading 3" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Plain Text" basedon="Normal" props="font-family:Courier New"/>
+<s type="P" name="Section Heading" basedon="Numbered Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Square List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Star List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Tick List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Triangle List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Roman List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="3" props="page-margin-right:1.000000in; page-margin-left:1.000000in; page-margin-top:1.000000in; page-margin-bottom:1.000000in">
+<p style="Heading 1" xid="4">La recherche d’information dans le travail de l’étudiant</p>
+<p xid="5"><c></c></p>
+<p xid="6">Etude OCDE 2008 : l’informatique n’apporte pas de gain de productivité, mais le secteur d’activité de l’informatique devient le premier secteur au monde.</p>
+<p xid="7"><c></c></p>
+<p xid="8">Apprendre à maîtriser les modes d’accès aux documents eux mêmes à travers des outils de consultation de plus en plus diversifiés.</p>
+<p xid="9">Ces outils sont des banques de données et les catalogues interrogeables à distance ou localement. Resssources informationnelles disponibles sur les réseaux électroniques.</p>
+<p xid="10"><c></c></p>
+<p xid="11">Calculs des couts d’utilisation de l’information : </p>
+<p xid="12">auteur =&gt; producteur =&gt; Diffuseur</p>
+<p xid="13">					=&gt;Support matériel =&gt; Utilisateur</p>
+<p xid="14">					=&gt;Serveurs =&gt; Réseaux</p>
+<p xid="15">								=&gt;Formateur =&gt; Utilisateur</p>
+<p xid="16">								=&gt; Intermédiaire =&gt; Utilisateur</p>
+<p xid="17"><c></c></p>
+<p xid="18">Dans le contexte de l’information scientifique et technique, l’information est un élément de connaissace...</p>
+<p xid="19"><c></c></p>
+<p xid="20">Savoir évaluer ses besoins en information =&gt; identifier les sources d’informations</p>
+<p xid="21"><c></c></p>
+<p xid="22">Littérature grise, institutions nationnales ou communautaires sont chargées d’organiser sa collecte et sa promotion : INIST, BLDSC, NTIS,  SIGLE</p>
+<p xid="23"><c></c></p>
+<p xid="24">Articles en direct : Refdoc (articles payants), Ingenta, OpenEditionJournals, DOAJ</p>
+<p xid="25"><c></c></p>
+<p xid="26">Fonds gratuits de consortiums.</p>
+<p xid="27">Consortium des bibliothèques françaises : Couperin</p>
+<p xid="1"><c></c></p>
+<p xid="2">Cloud : infrastructures et données faciles d’accès à l’utilisateur final (outils et documents)</p>
+<p xid="28"><c></c></p>
+<p xid="29">Bibliothèque du congrès américan : plus grande source de données</p>
+<p xid="30"><c></c></p>
+<p xid="31">Documentation dispo sur le systeme de l’université</p>
+</section>
+</abiword>
