@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="76" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Mon Oct  8 18:51:21 2018
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Mon Oct  8 18:13:56 2018
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="4" edit-time="2984" last-saved="1539017481" uid="6e7f8b1c-cb14-11e8-8b3d-b149be994d78">
+<version id="4" started="1539015236" uid="62420676-cb1a-11e8-8b3d-b149be994d78" auto="0" top-xid="55"/>
+</history>
+<styles>
+<s type="P" name="Heading 1" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:DejaVu Sans; font-size:17.000000pt"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="margin-top:0.000000pt; color:000000; font-size:12.000000pt; text-indent:0.000000pt; margin-bottom:0.000000pt; line-height:1.000000; bgcolor:ffffff; text-align:left; font-family:Times New Roman"/>
+<s type="P" name="Arrowhead List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Block Text" basedon="Normal" props="margin-bottom:6.000000pt; margin-right:72.000000pt; margin-left:72.000000pt"/>
+<s type="P" name="Box List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Bullet List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Chapter Heading" basedon="Numbered Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Contents 1" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Contents 2" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:72.000000pt"/>
+<s type="P" name="Contents 3" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:108.000000pt"/>
+<s type="P" name="Contents 4" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:144.000000pt"/>
+<s type="P" name="Contents Header" basedon="Normal" followedby="_Normal" props="text-align:center; margin-top:12.000000pt; font-weight:bold; margin-bottom:6.000000pt; font-family:DejaVu Sans; font-size:16.000000pt"/>
+<s type="P" name="Dashed List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Diamond List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Endnote" basedon="Normal" props="text-indent:-14.400000pt; margin-left:14.400000pt"/>
+<s type="C" name="Endnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Endnote Text" basedon="Normal"/>
+<s type="P" name="Footnote" basedon="Normal" props="text-indent:-14.400000pt; font-size:10.000000pt; margin-left:14.400000pt"/>
+<s type="C" name="Footnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Footnote Text" basedon="Normal" props="font-size:10.000000pt"/>
+<s type="P" name="Hand List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Heading 2" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:DejaVu Sans; font-size:14.000000pt"/>
+<s type="P" name="Heading 3" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:DejaVu Sans; font-size:12.000000pt"/>
+<s type="P" name="Heading 4" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:DejaVu Sans; font-size:12.000000pt"/>
+<s type="P" name="Heart List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Implies List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Roman List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Numbered Heading 1" basedon="Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 2" basedon="Heading 2" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 3" basedon="Heading 3" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Plain Text" basedon="Normal" props="font-family:Courier New"/>
+<s type="P" name="Section Heading" basedon="Numbered Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Square List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Star List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Tick List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Triangle List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Roman List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="10" props="page-margin-right:1.000000in; page-margin-left:1.000000in; page-margin-top:1.000000in; page-margin-bottom:1.000000in">
+<p style="Heading 1" xid="11" props="text-align:center">Conduite de projet<br/>approche marketing et technico-économique</p>
+<p xid="12"><c></c></p>
+<p xid="13">Objectif : </p>
+<p xid="14"><c></c></p>
+<p xid="15">Comprendre l’environnement de l’entreprise (organisationnel, communicationnel).</p>
+<p xid="16">Comprendre les préoccupations et les modes de pensée de chaque interlocuteur.</p>
+<p xid="17">Savoir parleur leur langue, indicateur, jargon, kpi.</p>
+<p xid="18">Être en empathie, adhérence et avoir la maîtrise de son rôle.</p>
+<p xid="19">Acquérir les savoir-faire et les compétences techniques.</p>
+<p xid="20">Finance, contrôle de gestion, marketing, commerciale, sociologique.</p>
+<p xid="21">Technique de présentation de soi et de ses projets<br/>Outil : Excel et powerpoint.</p>
+<p xid="22"><c></c></p>
+<p xid="23">Qu’est ce que l’organisation de l’entreprise ?</p>
+<p xid="24">Partie interne de l’entreprise sous 4 dimensions : </p>
+<p xid="25">La structure (squelette formel) qui fait quoi, qui décide quoi, les relations hiérarchiques.</p>
+<p xid="26">Les Hommes : en termes de compétences, motivation, caractéristiques socio-culturelles, style de management. Ne pas louper la pause café !</p>
+<p xid="27">Les systèmes de management, d’information, de </p>
+<p xid="28">La culture d’entreprise: attitudes, valeurs, rites et croyances, intégration dans l’entreprise.</p>
+<p xid="29"><c></c></p>
+<p xid="30">Structures hiérarchiques / fonctionnelles.</p>
+<p xid="31">Sans oublier les structures Staff &amp; Line (hiérar. + fonc.), structure par projet ou matricielle, structure divisionnelle (par type de marche par exemple).</p>
+<p xid="32"><c></c></p>
+<p xid="33">Hiérarchique : </p>
+<p xid="34">Unité de commandement : chaque élément du système relève d’un seul chef.</p>
+<p xid="35">Délégation de l’autorité, principe de la responsabilité</p>
+<p xid="36">Fonctionnement simple, discipline sans faille, rigidité, communication lente, gèle toute prise d’initiative.</p>
+<p xid="37">Contraire à la notion d’<c props="text-decoration:underline">agilité</c>.</p>
+<p xid="38"><c></c></p>
+<p xid="39">Fonctionnelles (fordisme) : </p>
+<p xid="40">Spécification fonctionnelle de chaque responsable.</p>
+<p xid="41">Chaque spécificité métier a un regard sur chaque entité.</p>
+<p xid="42">2 principes essentiels : </p>
+<p xid="43">Unité de commandement et communication bi-directionnelle.</p>
+<p xid="44">Création de transversalité</p>
+<p xid="45">Meilleure qualité d’exécution et de tâches plus pointues, rendement supérieur, risque de conflit, dilution du pouvoir, manque de traçabilité des erreurs.</p>
+<p xid="46"><c></c></p>
+<p xid="47">Staff &amp; Line : </p>
+<p xid="48">Hiérarchique et fonctionnelle : répartition des responsabilités.</p>
+<p xid="49">Dissociation des tâches de commandement et de conseil.</p>
+<p xid="50">Unité de commandement assurée par la structure hiérarchique</p>
+<p xid="51">Création d’un pôle identifié de spécialistes chargés d’une mission de conseil en direction de l’ensemble de la structure.</p>
+<p xid="52">Structure très présente chez toutes les grosses entreprises et états.</p>
+<p xid="53"><c></c></p>
+<p xid="54">Structure matricielle ou par projet : </p>
+<p xid="55"></p>
+<p xid="1"><c>Dualité de commandement, découpage par fonction et par division.</c></p>
+<p xid="3"><c>Responsable fonctionnel + responsable produit.</c></p>
+<p xid="4"><c>Lance de nouvelles activités sans bouleverser la structure actuelle.</c></p>
+<p xid="5"><c></c></p>
+<p xid="6"><c>Structure divisionnelle :</c></p>
+<p xid="8"><c></c></p>
+<p xid="9"><c>Focalisation sur le produit final, découpe l’entreprise en sous-ensembles autonomes. Décentralisation et délégation des décisions à chaque division. </c></p>
+<p xid="56"><c></c></p>
+<p xid="57"><c>Pyramide de Maslow (hiérarchie des besoins)</c></p>
+<p xid="58"><c>=&gt; 3 Axes : Besoins, désirs, motivations =&gt; Team building</c></p>
+<p xid="59"><c>5 Niveaux de besoins qui orientent l’individu dans son comportement</c></p>
+<p xid="60"><c props="text-decoration:underline">C’est le niveau non satisfait des besoins qui oriente l’individu dans son comportement.</c></p>
+<p xid="63"><c props="text-decoration:none">Besoins physiologiques=&gt;sécurité=&gt;appartenance=&gt;estime=&gt;accomplissement de soi.</c></p>
+<p xid="64"><c props="text-decoration:none"></c></p>
+<p xid="65"><c props="text-decoration:none">Les méprises les plus répandues : Un besoin ne doit pas être a 100% satisfait avant que le besoin suivant émerge.</c></p>
+<p xid="66"><c props="text-decoration:none">Psychopathologie=&gt; l’insatisfaction répétée ou à long terme est pathologique.</c></p>
+<p xid="67"><c props="text-decoration:none"></c></p>
+<p xid="68"><c props="text-decoration:none">Besoins et désirs : la pyramide de Maslow concerne les besoins fondamentaux et non pas les désirs des individus.</c></p>
+<p xid="69"><c props="text-decoration:none">Le désir est une émotion qui exprime un manque non-vital ou essentiel à l’organisme ou à la personne.</c></p>
+<p xid="72"><c props="text-decoration:none">Le désir est exprimé par le cerveau inconscient sous forme d’une émotion</c></p>
+<p xid="73"><c props="text-decoration:none"></c></p>
+<p xid="74"><c props="text-decoration:none">Un 6ème étage : La besoin d’éternité</c></p>
+<p xid="75"><c props="text-decoration:none">«Qu’est ce qui va rester de moi ?»</c></p>
+<p xid="76"><c props="text-decoration:none">Révision de la pyramide en étoile avec des branches pondérées. </c></p>
+</section>
+</abiword>
