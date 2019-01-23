@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="205" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Mon Jan 21 18:14:28 2019
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Mon Jan 21 17:28:37 2019
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="5" edit-time="10187" last-saved="1548090868" uid="5e2ced1a-1d92-11e9-8e51-cb9a1ef5498d">
+<version id="5" started="1548088118" uid="025d9922-1da0-11e9-8e51-cb9a1ef5498d" auto="0" top-xid="1"/>
+</history>
+<styles>
+<s type="P" name="Heading 1" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:17.000000pt"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="margin-top:0.000000pt; color:000000; font-size:12.000000pt; text-indent:0.000000pt; margin-bottom:0.000000pt; line-height:1.000000; bgcolor:ffffff; text-align:left; font-family:Times New Roman"/>
+<s type="P" name="Heading 2" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:14.000000pt"/>
+<s type="P" name="Arrowhead List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Block Text" basedon="Normal" props="margin-bottom:6.000000pt; margin-right:72.000000pt; margin-left:72.000000pt"/>
+<s type="P" name="Box List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Bullet List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Chapter Heading" basedon="Numbered Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Contents 1" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Contents 2" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:72.000000pt"/>
+<s type="P" name="Contents 3" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:108.000000pt"/>
+<s type="P" name="Contents 4" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:144.000000pt"/>
+<s type="P" name="Contents Header" basedon="Normal" followedby="_Normal" props="text-align:center; margin-top:12.000000pt; font-weight:bold; margin-bottom:6.000000pt; font-family:Liberation Sans; font-size:16.000000pt"/>
+<s type="P" name="Dashed List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Diamond List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Endnote" basedon="Normal" props="text-indent:-14.400000pt; margin-left:14.400000pt"/>
+<s type="C" name="Endnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Endnote Text" basedon="Normal"/>
+<s type="P" name="Footnote" basedon="Normal" props="text-indent:-14.400000pt; font-size:10.000000pt; margin-left:14.400000pt"/>
+<s type="C" name="Footnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Footnote Text" basedon="Normal" props="font-size:10.000000pt"/>
+<s type="P" name="Hand List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Heading 3" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:12.000000pt"/>
+<s type="P" name="Heading 4" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:12.000000pt"/>
+<s type="P" name="Heart List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Implies List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Roman List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Numbered Heading 1" basedon="Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 2" basedon="Heading 2" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 3" basedon="Heading 3" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Plain Text" basedon="Normal" props="font-family:Courier New"/>
+<s type="P" name="Section Heading" basedon="Numbered Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Square List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Star List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Tick List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Triangle List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Roman List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="4" props="page-margin-right:1.000000in; page-margin-left:1.000000in; page-margin-top:1.000000in; page-margin-bottom:1.000000in">
+<p style="Heading 1" xid="5" props="text-align:center">Pratique et conduite de réunion</p>
+<p xid="6"><c></c></p>
+<p style="Heading 2" xid="7">A quoi servent les réunions ?</p>
+<p xid="8">Permettre de faire une TODO list, caler le travail de la semaine, durée générale de 1h.</p>
+<p xid="9">Point bilatéral avec 1 personne de 15 à 30mn.</p>
+<p xid="10">1 fois par mois minimum reunion de toute l’équipe.</p>
+<p xid="11"><c></c></p>
+<p xid="12">Ce sont des moments d’ajustements collectifs, de cohésion, de prise de recul par rapport à l’action.</p>
+<p xid="13"><c></c></p>
+<p xid="14">Si un point compliqué ne concerne pas toute l’équipe, il faut l’évacuer et le traiter spécifiquement par la suite.</p>
+<p xid="15"><c></c></p>
+<p xid="16">Dans le grand sud ouest, le palabre de début de réunion est important, il est important de demander comment ça va, tout ça tout ça... c’est l’inverse dans d’autres régions...</p>
+<p xid="17"><c></c></p>
+<p xid="18">Les actions doivent être nominatives pour qu’elles soit effectuées.</p>
+<p xid="19"><c></c></p>
+<p style="Heading 2" xid="20">Les techniques de receuil de l’information</p>
+<p xid="21">Des questions (pour ouvrir =&gt;adhésion des membres, fermer =&gt;faire avancer le projet, sélectionner)</p>
+<p xid="22">Des temps de reformulation (pour synthétiser, s’assurer de ce qui est compris, pour obtenir un consensus)</p>
+<p xid="23">Des temps de silence (laisser les personnes s’exprimer, laisser les personnes réfléchir, ob server)</p>
+<p style="Heading 2" xid="24">Les causes racines de l’échec en matière de réunion</p>
+<p xid="25">Ordres du jour inexistants ou non respectés</p>
+<p xid="26">Objectifs non définis</p>
+<p xid="27">Des manques flagrants de préparation de l’animateur comme des participants</p>
+<p xid="28">Des temps de parole pas respectés ou pas équilibrés</p>
+<p xid="29">Des fréquences trop soutenues</p>
+<p xid="30">Des durées qui frisent linsupportable</p>
+<p xid="31">Le parasitisme interrelationnel</p>
+<p style="Heading 2" xid="32">Les conditions de réussite d’une réunion</p>
+<p xid="33">Le choix des participants (requis, facultatifs)</p>
+<p xid="34">Qualité de la préparation (fond, bilan, message)</p>
+<p xid="35">Implication des participants</p>
+<p xid="36">Animation des échanges</p>
+<p xid="37">Progression vers les objectifs</p>
+<p xid="38">Utilisation du temps</p>
+<p xid="39">Le passage à l’action (compte rendu)</p>
+<p xid="40">Le suivi de la réunion</p>
+<p xid="41"><c></c></p>
+<p style="Heading 2" xid="42">Les fondamentaux de la préparation</p>
+<p xid="43">Conditions de réussite de la réunion (objectif secret) =&gt;informer, décider, partager, former, expérimenter, promouvoir, mobiliser, receuillir de l’information</p>
+<p xid="44">Le but de la réunion (actions)</p>
+<p xid="45">Choix des participants (décideurs, acteurs, sponsors)</p>
+<p xid="46"><c></c></p>
+<p style="Heading 2" xid="47">Le choix des participants</p>
+<p xid="48"><c></c></p>
+<p xid="49">L’animateur doit être choisi en fonction de son Leadership, compétences sur le sujet, capacité d’écoute et implication. Le leader charismatique du projet n’est pas forcément celui qui le mène.</p>
+<p xid="50">L’animateur doit être disponible, observateur, chaleureux, objectif, facilitateur</p>
+<p xid="51">Les participants doivent disposer des compétences suffisantes, être responsable des éventuelles décisions qui seront prises, être impliqués.</p>
+<p xid="52"><c></c></p>
+<p style="Heading 2" xid="53">Les critères de satisfaction</p>
+<p xid="54">Motivante (je suis écouté, je participe, je suis concerné, j’ai une place)</p>
+<p xid="55">Utile (J’apprends, je comprends, je solutionne, j’ai des priorités)</p>
+<p xid="56">Efficace (Conforme, cadrée, progression, résulat)</p>
+<p xid="57"><c></c></p>
+<p style="Heading 2" xid="58">Le référentiel du participant à la réunion</p>
+<p xid="59">Avant la réunion : </p>
+<p xid="60">TODO list à transmettre à l’animateur de la réunion</p>
+<p xid="61">Echanger avec l’animateur pour savoir ce qu’il attend</p>
+<p xid="62"><c></c></p>
+<p xid="63">Pendant la réunion : </p>
+<p xid="64">A l’heure</p>
+<p xid="65">Disponible et concentré</p>
+<p xid="66">J’écoute les interventions des autres</p>
+<p xid="67">J’interviens avec la volonté constante de faire avancer les échanges</p>
+<p xid="68">Considérer les retours comme un moyen d’être mieux compris</p>
+<p xid="69">Accepter les décisions collectives</p>
+<p xid="70"><c></c></p>
+<p xid="71">Après la réunion : </p>
+<p xid="72">Retour à l’animateur (envisageable)</p>
+<p xid="73">Définition des priorités</p>
+<p xid="74">Appliquer les décisions collectives</p>
+<p xid="75">Informer l’animateur de l’avancement</p>
+<p xid="76"><c></c></p>
+<p style="Heading 2" xid="77">Identifier le chef de file et «utiliser» son aura</p>
+<p xid="78"><c></c></p>
+<p xid="79">Le chef de file «leader» se distingue par sa faculté d’obtenir aisément le respect et la confiance des autres, il a de l’influence.</p>
+<p xid="80">Il faut s’en faire un allié et faire en sorte que cette influence aille dans le sens de l’animmateur et des objectifs de la réunion.</p>
+<p xid="81">Si plusieurs leaders se manifestent dans la réunion, il faut évacuer le problème.</p>
+<p xid="82">L’animateur doit rester le «maître de la cérémonie» </p>
+<p xid="83"><c></c></p>
+<p style="Heading 2" xid="84">Les 3 rôles de l’animateur</p>
+<p xid="85">Faire produire (faire progresser le groupe vers le résultat)</p>
+<p xid="86">Faciliter le travail du groupe (Objectif, ordre du jour, synthèse, temps, participation, destion des échanges)</p>
+<p xid="87">Motiver et encourager (gérer la dynamique du groupe, les émotions, enthousiasme, découragement)</p>
+<p xid="88"><c></c></p>
+<p style="Heading 2" xid="89">Les différents types de réunion</p>
+<p xid="90">Le résultat à atteindre définit le type de réunion :</p>
+<p xid="91">information</p>
+<p xid="92">décision (seulement les leaders)</p>
+<p xid="93">analyse de problème (en bilatéral ou seulement les opérationnels)</p>
+<p xid="94">formation</p>
+<p xid="95">créativité</p>
+<p xid="96"><c></c></p>
+<p xid="97">Les réunions de projet:</p>
+<p xid="98">Lancement (kick-off) : Cadrer le projet, sa structure, ses étapes, définition des méthodes de travail, constitution des équipes, implication des acteurs</p>
+<p xid="99">Avancement et pilotage :Suivi prévu/réalisé, prise de décisions, régler les problèmes de ressources.</p>
+<p xid="100">Clôture : Symboliser la fin du projet, captialiser l’expérience, saluer les implications humaines et stabiliser les résultats.</p>
+<p xid="101"><c></c></p>
+<p style="Heading 2" xid="102">Les cadrages préalables</p>
+<p xid="103">Les réunions doivent réserver le moins de surprises possibles :</p>
+<p xid="104">Une situation inattendue est difficile à gérer</p>
+<p xid="105">Une intervention non prévue peu prendre du temps et conduire à ne pas atteindre le résultat fixé</p>
+<p xid="106">La position inattendue d’un participant peut contrarier des participants que l’animateur n’arrive plus à contrôler</p>
+<p xid="107">Rencontrer préalablement les participants «actifs» et les faire s’exprimer sur leurs interventions, préciser ce que vous attendez d’eux. Aller chercher l’adhésion, le «off» , les postures.</p>
+<p xid="108"><c></c></p>
+<p style="Heading 2" xid="109">Mise en oeuvre pratique</p>
+<p xid="110">Comment débuter efficacement une réunion ?</p>
+<p xid="111"><c></c></p>
+<p xid="112">Démarrer à l’heure +5mn maximum</p>
+<p xid="113">On attend le retardataire léger</p>
+<p xid="114"><c></c></p>
+<p xid="115">On annonce officiellement le début de la réunion</p>
+<p xid="116"><c></c></p>
+<p xid="117">On acceuille tout le monde et en particulier les gens qui viennent de loin</p>
+<p style="Heading 2" xid="118">Mise en oeuvre pratique</p>
+<p xid="119">Décliner l’objectif et le sujet de la réunion</p>
+<p xid="120">Se présenter, désigner le gardien du temps, la personne qui fera le compte rendu, faire un tour de table et donner la parole aux participants</p>
+<p xid="121">Obtenir un consensus avant de démarrer, cet ordre du jour vous convient-il ?</p>
+<p xid="122">S’assurer que tout le monde s’exprime sur chaque point</p>
+<p xid="123">Recentrer els discussions si le temps dépasse.</p>
+<p xid="124">Clôturer à l’heure</p>
+<p xid="125">Montrer qu’on respecte le contrat de départ : heure, reformuler les points, faire adhérer, prendre la date et remercier.</p>
+<p xid="126">Diffuser le compte rendu de la réunion</p>
+<p xid="127"><c></c></p>
+<p style="Heading 2" xid="128">Les  tecniques pour dynamiser les réunions</p>
+<p xid="129">QQOQCCP !</p>
+<p xid="130"><c></c></p>
+<p xid="131">Décrire la situation, chiffrer la situation, prendre du recul.</p>
+<p xid="132"><c></c></p>
+<p style="Heading 2" xid="133">Techniques de gestion de projet</p>
+<p xid="134">Les lutes de pouvoir à l’intérieur d’un projet pénalisent le projet.</p>
+<p xid="135">compétences spécialisées + compétencesde facilisation = combinaison qui conduit au succès</p>
+<p xid="136"><c></c></p>
+<p xid="137">Marshmallo challenge... video TED</p>
+<p xid="138">Viser la pluridisciplinarité, les enjeux ne doivent pas brider l’inventivité.</p>
+<p xid="139">Le prototypage est important.</p>
+<p xid="140"><c></c></p>
+<p xid="141">Mes meilleurs ne sont pas forcément ceux qui ont le leadership</p>
+<p xid="142"><c></c></p>
+<p style="Heading 2" xid="143">Brainstorming et Coaching Projet</p>
+<p xid="144">Comment construire des desicussions de groupas avec la méthode métaplan.</p>
+<p xid="145"><c></c></p>
+<p xid="146">La boite à outils :</p>
+<p xid="147">Panneau, feuilles, post-it, scotch, commettes adhésives (priorités)</p>
+<p xid="148">Donner 3 à 10 post-it à chaque individu pour récupérer les idées anonymement</p>
+<p xid="149">Pour rendre visible la discussion :</p>
+<p xid="150">1 seule idée par carte</p>
+<p xid="151">Verbatim explicites (sujet, verbe, complément)</p>
+<p xid="152">Réunir les contenus identiques ou similaires (collectivement)</p>
+<p xid="153">Titrer les familles de contenu</p>
+<p xid="154">Le but est d’obtenir une image compréhensible, se limiter a une douzaine de cartes</p>
+<p xid="155">Créer des liens entre les différentes catégories</p>
+<p xid="156"><c></c></p>
+<p xid="157">Le off du métaplan : </p>
+<p xid="158">Il doit y avoir un modérateur «neutre» qui conduit la discussion et qui bride les controverses, écarte les sujets qui fachent</p>
+<p xid="159">Conduite des discussions :</p>
+<p xid="160">CQFD =&gt;</p>
+<p xid="161">C = Pas de censure ni d’auto-censure</p>
+<p xid="162">Q = Quantité avant tout</p>
+<p xid="163">F  = même si c’est farfelu, ne pas commenter, ne pas critiquer</p>
+<p xid="164">D = Démultiplier et piller les idées émises</p>
+<p xid="165">Veiller à ce que chaque participant s’exprime, aider les gens à amener du volume.</p>
+<p xid="166"><c></c></p>
+<p xid="167">Le modérateur est là pour ouvrir les sujets, avec des questions ouvertes, qui permettent d’avoir plusieurs réponses différentes, préciser les idées, stimuler le groupe, orienter les réponses dans une direction anticipée</p>
+<p xid="168"><c></c></p>
+<p xid="169">Objectifs : Visualiser les débats, mener la discussion, planifier le déroulement de la discussion</p>
+<p xid="170">Meilleure gestion de la complexité, argumentation visible de tous, le verbatim permet la gestion facilitée des emotions en restant sur du factuel. Le consensus d’apparence se désagrège sur le concret, le modérateur doit alors poser des questions précises, demander de préciser certains post-it, des exemples.</p>
+<p xid="171"><c></c></p>
+<p xid="172"><c props="font-weight:bold">Démarrer le projet, partager et faire adhérer, aligner l’équipe projet sur les objectifs</c></p>
+<p xid="2"><c props="font-weight:bold"></c></p>
+<p xid="3"><c props="font-weight:normal">Dans tous les réseaux, la barrière à l’entrée est industrielle, par rapport aux investissements minimum pour rentrer dans le réseau (voies ferrees, télécom, avions) donc la loi permet aux nouveaux acteurs de pénétrer le marché via le codeshare (partage des droits, prestations) exemple de partage entre les opérateurs de télécom ou encore les lignes de transport aérien.</c></p>
+<p xid="173"><c props="font-weight:normal">1 cablage physique =&gt; plusieurs fournisseurs =&gt; ressource non différenciable.</c></p>
+<p xid="174"><c props="font-weight:normal"></c></p>
+<p xid="175"><c props="font-weight:normal">La révolution du e-commerce est l’extension du footprint local à national ou international.</c></p>
+<p xid="177"><c props="font-weight:normal">Autre élément, le e-commerce permet une économie de temps et une économie des couts que nous avons à aller chercher le produit.</c></p>
+<p xid="179"><c props="font-weight:normal">Notion de priximité a disparu, l’expérience client est le nouveau focus.</c></p>
+<p xid="180"><c props="font-weight:normal"></c></p>
+<p xid="181"><c props="font-weight:normal">Rapport de force et pouvoir de négociation client/fournisseur.</c></p>
+<p xid="182"><c props="font-weight:normal"></c></p>
+<p xid="183"><c props="font-weight:normal">Effet substitutif et conduite de changement...disparition de produits. (mail/lettre)</c></p>
+<p xid="184"><c props="font-weight:normal"></c></p>
+<p xid="185"><c props="font-weight:normal">PEST =&gt; plus grand facteur de délocalisation. La délocalisation ne fonctionne que si le pays hôte n’a pas d’inflation, car sinon le produit perd l’équivalent de l’inflation sur son cycle de production.</c></p>
+<p xid="186"><c props="font-weight:normal"></c></p>
+<p xid="187"><c props="font-weight:normal">Analyse PEST afin de prévenir les risques.</c></p>
+<p xid="188"><c props="font-weight:normal"></c></p>
+<p xid="189"><c props="font-weight:normal">L’analyse SWOT est un outil de discussion et peuvent être faites par plusieurs personnes  pour comparer les idées et points de vue.</c></p>
+<p xid="197"><c props="font-weight:normal"></c></p>
+<p xid="198"><c props="font-weight:normal">Chaine de valeur : Qui vend quoi à qui comment ? (Supply chain)</c></p>
+<p xid="192"><c props="font-weight:normal">Permet d’évaluer la performance d’une entreprise</c></p>
+<p xid="194"><c props="font-weight:normal"></c></p>
+<p xid="195"><c props="font-weight:normal">Strategor et communicator à lire</c></p>
+<p xid="196"><c props="font-weight:normal">La valeur est la somme que les clients sont prets à payer pour le produi qui leur est offert, résulte des fournisseurs, de la firme et de la distribution.</c></p>
+<p xid="199"><c props="font-weight:normal">Identifier les lieux de création de valeur au travers d’aggrégats.</c></p>
+<p xid="200"><c props="font-weight:normal"></c></p>
+<p xid="201"><c props="font-weight:normal">Distingo coeur de métier/support.</c></p>
+<p xid="202"><c props="font-weight:normal"></c></p>
+<p xid="203"><c props="font-weight:normal">Capex(capitaliser)/Opex(virtualiser) =&gt;scalabilité différente.</c></p>
+<p xid="205"><c props="font-weight:normal"></c></p>
+<p xid="204"><c props="font-weight:normal"></c></p>
+</section>
+</abiword>
