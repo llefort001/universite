@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="74" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="69" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,90 +9,122 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Thu Jan 17 12:04:39 2019
-</m>
 <m key="abiword.generator">AbiWord</m>
-<m key="dc.creator">lucas</m>
-<m key="dc.date">Thu Jan 17 09:58:16 2019
-</m>
 <m key="dc.format">application/x-abiword</m>
 </metadata>
 <rdf>
 </rdf>
-<history version="8" edit-time="8998" last-saved="1547723079" uid="5c933ba6-1a33-11e9-9bc2-98375ba5db8f">
-<version id="8" started="1547715496" uid="af17c14e-1a47-11e9-9bc2-98375ba5db8f" auto="0" top-xid="9"/>
-</history>
 <styles>
-<s type="P" name="Heading 1" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Liberation Sans; font-size:17pt"/>
-<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
-<s type="P" name="Heading 2" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Liberation Sans; font-size:14pt"/>
-<s type="P" name="Heading 3" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Liberation Sans; font-size:12pt"/>
+<s type="P" name="Heading 1" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:17.000000pt"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="margin-top:0.000000pt; color:000000; font-size:12.000000pt; text-indent:0.000000pt; margin-bottom:0.000000pt; line-height:1.000000; bgcolor:ffffff; text-align:left; font-family:Times New Roman"/>
+<s type="P" name="Heading 2" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:14.000000pt"/>
+<s type="P" name="Heading 3" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:12.000000pt"/>
+<s type="P" name="Arrowhead List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Block Text" basedon="Normal" props="margin-bottom:6.000000pt; margin-right:72.000000pt; margin-left:72.000000pt"/>
+<s type="P" name="Box List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Bullet List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Chapter Heading" basedon="Numbered Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Contents 1" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Contents 2" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:72.000000pt"/>
+<s type="P" name="Contents 3" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:108.000000pt"/>
+<s type="P" name="Contents 4" basedon="Normal" followedby="_Normal" props="text-indent:-21.600000pt; margin-left:144.000000pt"/>
+<s type="P" name="Contents Header" basedon="Normal" followedby="_Normal" props="text-align:center; margin-top:12.000000pt; font-weight:bold; margin-bottom:6.000000pt; font-family:Liberation Sans; font-size:16.000000pt"/>
+<s type="P" name="Dashed List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Diamond List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Endnote" basedon="Normal" props="text-indent:-14.400000pt; margin-left:14.400000pt"/>
+<s type="C" name="Endnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Endnote Text" basedon="Normal"/>
+<s type="P" name="Footnote" basedon="Normal" props="text-indent:-14.400000pt; font-size:10.000000pt; margin-left:14.400000pt"/>
+<s type="C" name="Footnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Footnote Text" basedon="Normal" props="font-size:10.000000pt"/>
+<s type="P" name="Hand List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Heading 4" basedon="Normal" followedby="_Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:12.000000pt"/>
+<s type="P" name="Heart List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Implies List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Roman List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Numbered Heading 1" basedon="Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 2" basedon="Heading 2" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 3" basedon="Heading 3" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Plain Text" basedon="Normal" props="font-family:Courier New"/>
+<s type="P" name="Section Heading" basedon="Numbered Heading 1" followedby="_Normal" props="text-indent:0.000000pt"/>
+<s type="P" name="Square List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Star List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Tick List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Triangle List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Roman List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
 </styles>
-<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
-<section xid="2" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
-<p style="Heading 1" xid="3" props="text-align:center"><c>Médiation et médiatisation</c></p>
-<p style="Heading 2" xid="1" props="text-align:center"><c>Numérisation du patrimoine</c></p>
-<p style="Normal" xid="4"><c></c></p>
-<p style="Normal" xid="5"><c>Objectifs :</c></p>
-<p style="Normal" xid="6"><c>Comprendre les enjeux contemporains de la numérisation et de l’accès numérique à la culture (économique, politiques, structurels, juridiques, etc...)</c></p>
-<p style="Normal" xid="7"><c>Dresser une cartographie des principales pratiques</c></p>
-<p style="Normal" xid="8"><c>Connaître et savoir analyser les différentes expériences de diffusion numérique de la culture</c></p>
-<p style="Normal" xid="9"><c>Réfléchir sur les notions de médiation et de médiatisation numérique</c></p>
-<p style="Normal" xid="10"><c></c></p>
-<p style="Heading 3" xid="13"><c props="lang:fr-FR">3-4 Slides sur un outil de médiation et de médiatisation : 31 Janvier</c></p>
-<p style="Heading 3" xid="11"><c>Présentation des projets : 5 Mars</c></p>
-<p style="Normal" xid="14"><c></c></p>
-<p style="Normal" xid="15"><c>Questions à garder en tête :</c></p>
-<p style="Normal" xid="16"><c>Quelles transformations à l’oeuvre dans la pratique des professionnels de la culture ?</c></p>
-<p style="Normal" xid="17"><c>Qui sont les acteurs et comment leurs logiques métiers influencent-elles leurs productions ?</c></p>
-<p style="Normal" xid="18"><c>Qui sont les usagers visés (fragmentation des expérienceset des publics) ?</c></p>
-<p style="Normal" xid="19"><c>Quelles sont les logiques médiatiques ? Quelles lectures possibles (convergence culturelle et technique)</c></p>
-<p style="Normal" xid="21"><c></c></p>
-<p style="Normal" xid="22"><c>Le cadre théorique et technique :</c></p>
-<p style="Normal" xid="24"><c>Médiation/Médiatisation</c></p>
-<p style="Normal" xid="25"><c>Documentation/Documentarisation du patrioine</c></p>
-<p style="Normal" xid="26"><c>Inscription des pratiques documentaires patrimoniales (de recherche, de récolement, d’exposition) dans l’environnement numérique</c></p>
-<p style="Normal" xid="27"><c>Oblige les institutions patrimoniales à repenser les formes de médiation (intermédiaire)</c></p>
-<p style="Normal" xid="28"><c>35% des adultes utilisent internet en lien avec des visites du patrimoine</c></p>
-<p style="Normal" xid="29"><c></c></p>
-<p style="Normal" xid="30"><c>Remarques :</c></p>
-<p style="Normal" xid="31"><c>Nous assistons sur une période relativement courte à de nouvelles relations individuelles et collectives à la culture (convergencetechnique et culturelle et culture du remix)</c></p>
-<p style="Normal" xid="32"><c>Les institutions s’en trouvent modifiées (reconfigurations des espages, des dispositifs, des méthodes, des relations, etc.)</c></p>
-<p style="Normal" xid="33"><c>Redéfinition des relations et des médiations de la culture qui réinterrogent les professionnels.</c></p>
-<p style="Normal" xid="34"><c></c></p>
-<p style="Normal" xid="35"><c>Ethymologie de la médiation : «Fait de servir d’intermédiaire entre deux ou plusieurs choses»</c></p>
-<p style="Normal" xid="36"><c></c></p>
-<p style="Normal" xid="37"><c>Appliquée au musée : «La médiation est un processus d’articulation spatiale des documents, des objets et de l’information selon la logique ostensive propre permettant aux individus en situation (lecteur, usager, visiteur) d’accéder aux ressources et au monde exposé mis à disposition» Jean Davallon</c></p>
-<p style="Normal" xid="38"><c></c></p>
-<p style="Normal" xid="39"><c>Ethymologie de la médiatisation : «Rendre immédiat par l’introduction d’un intermédiaire»</c></p>
-<p style="Normal" xid="40"><c>On retrouve l’idée d’intermédiaire mais...</c></p>
-<p style="Normal" xid="41"><c>la médiatisation constitue une forme de médiation entre les producteurs et les récepteurs, mais nous distinguons ici ces processus de diffusion, circulation et transmission de message à travers des compagnies ou lieux de programmation, d’un autre ensemble..........</c></p>
-<p style="Normal" xid="42"><c></c></p>
-<p style="Normal" xid="43"><c>La médiation scientifique (Belaën)</c></p>
-<p style="Normal" xid="44"><c>La médiation scientifique ou la vulgarisation est l’ensemble des actions permettant au public d’accéder à la culture scientifique, technique, industrielle ou environnementale, c’est à dire aux savoirs, savoir-faire et savoir-être de ces mêmes disciplines.</c></p>
-<p style="Normal" xid="45"><c></c></p>
-<p style="Normal" xid="46"><c>La médiation documentaire (Couzinet, Liquète) :</c></p>
-<p style="Normal" xid="47"><c>....</c></p>
-<p style="Normal" xid="48"><c></c></p>
-<p style="Normal" xid="49"><c>Vers une médiation «hybride» :</c></p>
-<p style="Normal" xid="50"><c>Ressources, accès, animations etc.</c></p>
-<p style="Normal" xid="51"><c></c></p>
-<p style="Normal" xid="52"><c></c></p>
-<p style="Normal" xid="53"><c>Essai de typologie : </c></p>
-<p style="Normal" xid="54"><c>Peut-on dresser une typologie des «médiations numériques»  ?</c></p>
-<p style="Normal" xid="56"><c>L’éditorialisation</c></p>
-<p style="Normal" xid="57"><c>La simulation (l’immersion)</c></p>
-<p style="Normal" xid="58"><c>La personnalisation (du storytelling patrimonial au transmédia storytelling)</c></p>
-<p style="Normal" xid="60"><c>La participation</c></p>
-<p style="Normal" xid="61"><c>La falsification (le détournement)</c></p>
-<p style="Normal" xid="62"><c>Etc.</c></p>
-<p style="Normal" xid="63"><c></c></p>
-<p style="Normal" xid="64"><c>Projet : </c></p>
-<p style="Normal" xid="66"><c>Essais de Michel de Montaigne du 16ème Siècle (Gallica) annotés de sa main</c></p>
-<p style="Normal" xid="68"><c>Projet de classement à l’unesco : Mémoire du monde (exemple : Traité de Copernic...)</c></p>
-<p style="Normal" xid="71"><c>Objectif :</c></p>
-<p style="Normal" xid="70"><c>Faire des propositions pour diffuser, valoriser et donner une dimension internationnale.</c></p>
-<p style="Normal" xid="72"><c>Pour dans 15 jours : Préparer petite analyse d’un objet documentaire (site, appli..) à propos d’un ma</c></p>
-<p style="Normal" xid="73"><c></c></p>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="4" props="page-margin-right:1.000000in; page-margin-left:1.000000in; page-margin-top:1.000000in; page-margin-bottom:1.000000in">
+<p style="Heading 1" xid="5" props="text-align:center">Médiation et médiatisation</p>
+<p style="Heading 2" xid="6" props="text-align:center">Numérisation du patrimoine</p>
+<p xid="7"><c></c></p>
+<p xid="8">Objectifs :</p>
+<p xid="9">Comprendre les enjeux contemporains de la numérisation et de l’accès numérique à la culture (économique, politiques, structurels, juridiques, etc...)</p>
+<p xid="10">Dresser une cartographie des principales pratiques</p>
+<p xid="11">Connaître et savoir analyser les différentes expériences de diffusion numérique de la culture</p>
+<p xid="12">Réfléchir sur les notions de médiation et de médiatisation numérique</p>
+<p xid="13"><c></c></p>
+<p style="Heading 3" xid="14"><c props="lang:fr-FR">3-4 Slides sur un outil de médiation et de médiatisation : 31 Janvier</c></p>
+<p style="Heading 3" xid="15">Présentation des projets : 5 Mars</p>
+<p xid="16"><c></c></p>
+<p xid="17">Questions à garder en tête :</p>
+<p xid="18">Quelles transformations à l’oeuvre dans la pratique des professionnels de la culture ?</p>
+<p xid="19">Qui sont les acteurs et comment leurs logiques métiers influencent-elles leurs productions ?</p>
+<p xid="20">Qui sont les usagers visés (fragmentation des expérienceset des publics) ?</p>
+<p xid="21">Quelles sont les logiques médiatiques ? Quelles lectures possibles (convergence culturelle et technique)</p>
+<p xid="22"><c></c></p>
+<p xid="23">Le cadre théorique et technique :</p>
+<p xid="24">Médiation/Médiatisation</p>
+<p xid="25">Documentation/Documentarisation du patrioine</p>
+<p xid="26">Inscription des pratiques documentaires patrimoniales (de recherche, de récolement, d’exposition) dans l’environnement numérique</p>
+<p xid="27">Oblige les institutions patrimoniales à repenser les formes de médiation (intermédiaire)</p>
+<p xid="28">35% des adultes utilisent internet en lien avec des visites du patrimoine</p>
+<p xid="29"><c></c></p>
+<p xid="30">Remarques :</p>
+<p xid="31">Nous assistons sur une période relativement courte à de nouvelles relations individuelles et collectives à la culture (convergencetechnique et culturelle et culture du remix)</p>
+<p xid="32">Les institutions s’en trouvent modifiées (reconfigurations des espages, des dispositifs, des méthodes, des relations, etc.)</p>
+<p xid="33">Redéfinition des relations et des médiations de la culture qui réinterrogent les professionnels.</p>
+<p xid="34"><c></c></p>
+<p xid="35">Ethymologie de la médiation : «Fait de servir d’intermédiaire entre deux ou plusieurs choses»</p>
+<p xid="36"><c></c></p>
+<p xid="37">Appliquée au musée : «La médiation est un processus d’articulation spatiale des documents, des objets et de l’information selon la logique ostensive propre permettant aux individus en situation (lecteur, usager, visiteur) d’accéder aux ressources et au monde exposé mis à disposition» Jean Davallon</p>
+<p xid="38"><c></c></p>
+<p xid="39">Ethymologie de la médiatisation : «Rendre immédiat par l’introduction d’un intermédiaire»</p>
+<p xid="40">On retrouve l’idée d’intermédiaire mais...</p>
+<p xid="41">la médiatisation constitue une forme de médiation entre les producteurs et les récepteurs, mais nous distinguons ici ces processus de diffusion, circulation et transmission de message à travers des compagnies ou lieux de programmation, d’un autre ensemble..........</p>
+<p xid="42"><c></c></p>
+<p xid="43">La médiation scientifique (Belaën)</p>
+<p xid="44">La médiation scientifique ou la vulgarisation est l’ensemble des actions permettant au public d’accéder à la culture scientifique, technique, industrielle ou environnementale, c’est à dire aux savoirs, savoir-faire et savoir-être de ces mêmes disciplines.</p>
+<p xid="45"><c></c></p>
+<p xid="46">La médiation documentaire (Couzinet, Liquète) :</p>
+<p xid="47">....</p>
+<p xid="48"><c></c></p>
+<p xid="49">Vers une médiation «hybride» :</p>
+<p xid="50">Ressources, accès, animations etc.</p>
+<p xid="51"><c></c></p>
+<p xid="52"><c></c></p>
+<p xid="53">Essai de typologie : </p>
+<p xid="54">Peut-on dresser une typologie des «médiations numériques»  ?</p>
+<p xid="55">L’éditorialisation</p>
+<p xid="56">La simulation (l’immersion)</p>
+<p xid="57">La personnalisation (du storytelling patrimonial au transmédia storytelling)</p>
+<p xid="58">La participation</p>
+<p xid="59">La falsification (le détournement)</p>
+<p xid="60">Etc.</p>
+<p xid="61"><c></c></p>
+<p xid="62">Projet : </p>
+<p xid="63">Essais de Michel de Montaigne du 16ème Siècle (Gallica) annotés de sa main</p>
+<p xid="64">Projet de classement à l’unesco : Mémoire du monde (exemple : Traité de Copernic...)</p>
+<p xid="65">Objectif :</p>
+<p xid="66">Faire des propositions pour diffuser, valoriser et donner une dimension internationnale.</p>
+<p xid="67">Pour dans 15 jours : Préparer petite analyse d’un objet documentaire (site, appli..) à propos d’un manuscrit.</p>
+<p xid="68">Avec un QQOQCCP, limites, structure, entreprise productrice...</p>
+<p xid="1"><c></c></p>
+<p xid="2">Objectif : casser l’organisation en sillo des informations autour de la version de bordeaux des écrits de Montaigne.</p>
+<p xid="3">Seulement conception a faire, meme pas faisabilité et cdc.</p>
+<p xid="69">A rendre pour le 5 Mars.</p>
 </section>
 </abiword>

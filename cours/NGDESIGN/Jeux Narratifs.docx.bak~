@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="99" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Wed Jan 23 14:52:54 2019
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Wed Jan 23 14:24:46 2019
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="3" edit-time="3800" last-saved="1548251574" uid="4b466636-1f0e-11e9-8f36-8e08cad0fa1d">
+<version id="3" started="1548249886" uid="2ed740c6-1f16-11e9-8f36-8e08cad0fa1d" auto="0" top-xid="67"/>
+</history>
+<styles>
+<s type="P" name="Heading 1" basedon="Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:17.000000pt"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="margin-top:0.000000pt; color:000000; font-size:12.000000pt; text-indent:0.000000pt; margin-bottom:0.000000pt; line-height:1.000000; bgcolor:ffffff; text-align:left; font-family:Times New Roman"/>
+<s type="P" name="Heading 2" basedon="Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:14.000000pt"/>
+<s type="P" name="Heading 3" basedon="Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:12.000000pt"/>
+<s type="P" name="Arrowhead List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Block Text" basedon="Normal" props="margin-bottom:6.000000pt; margin-right:72.000000pt; margin-left:72.000000pt"/>
+<s type="P" name="Box List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Bullet List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Chapter Heading" basedon="Numbered Heading 1" props="text-indent:0.000000pt"/>
+<s type="P" name="Contents 1" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Contents 2" basedon="Normal" props="text-indent:-21.600000pt; margin-left:72.000000pt"/>
+<s type="P" name="Contents 3" basedon="Normal" props="text-indent:-21.600000pt; margin-left:108.000000pt"/>
+<s type="P" name="Contents 4" basedon="Normal" props="text-indent:-21.600000pt; margin-left:144.000000pt"/>
+<s type="P" name="Contents Header" basedon="Normal" props="text-align:center; margin-top:12.000000pt; font-weight:bold; margin-bottom:6.000000pt; font-family:Liberation Sans; font-size:16.000000pt"/>
+<s type="P" name="Dashed List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Diamond List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Endnote" basedon="Normal" props="text-indent:-14.400000pt; margin-left:14.400000pt"/>
+<s type="C" name="Endnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Endnote Text" basedon="Normal"/>
+<s type="P" name="Footnote" basedon="Normal" props="text-indent:-14.400000pt; font-size:10.000000pt; margin-left:14.400000pt"/>
+<s type="C" name="Footnote Reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="Footnote Text" basedon="Normal" props="font-size:10.000000pt"/>
+<s type="P" name="Hand List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Heading 4" basedon="Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:12.000000pt"/>
+<s type="P" name="Heart List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Implies List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Roman List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Numbered Heading 1" basedon="Heading 1" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 2" basedon="Heading 2" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered Heading 3" basedon="Heading 3" props="text-indent:0.000000pt"/>
+<s type="P" name="Numbered List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Plain Text" basedon="Normal" props="font-family:Courier New"/>
+<s type="P" name="Section Heading" basedon="Numbered Heading 1" props="text-indent:0.000000pt"/>
+<s type="P" name="Square List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Star List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Tick List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Triangle List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Case List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Roman List" basedon="Numbered List" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="6" props="page-margin-right:1.000000in; page-margin-left:1.000000in; page-margin-top:1.000000in; page-margin-bottom:1.000000in">
+<p style="Heading 1" xid="7" props="text-align:center">Jeux narratifs</p>
+<p xid="8"><c></c></p>
+<p xid="9">Elaboration d’un flowchart narratif</p>
+<p xid="10"><c></c></p>
+<p xid="11"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Utilisation du logiciel Twine qui permet de créer de la narration interactive</c></p>
+<p xid="12"><c></c></p>
+<p xid="13"><c></c></p>
+<p xid="14" props="text-align:left; text-indent:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; margin-top:0.000000pt"><c props="bgcolor:ffffff; lang:fr-FR; font-size:12.000000pt; color:ff0000">Boucle entre 2 *.</c></p>
+<p xid="15"><c></c></p>
+<p xid="16"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Théorie de la boucle de gameplay :</c></p>
+<p xid="17"><c></c></p>
+<p xid="18"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">*Situation de jeu (objectif + challenge + compétences) =&gt; Formulation des hypothèses =&gt; Expérimentation des hupothèses =&gt; Confirmation (reward) ou non des hypothèses =&gt; *Situation de jeu</c></p>
+<p xid="19"><c></c></p>
+<p xid="20"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Pas de formulation d’hypothèses (trop grande distance sémantique) =&gt; RIP</c></p>
+<p xid="21"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Incapacité d’expérimenter les hypothèses (trop grande distance articulaire) =&gt; RIP</c></p>
+<p xid="22"><c></c></p>
+<p xid="23"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Modèle sémiotique du gameplay :</c></p>
+<p xid="24"><c></c></p>
+<p xid="25"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">GAME : Règles + objets du jeu</c></p>
+<p xid="26"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">*Pouvoir faire =&gt; Devoir faire =&gt; Vouloir faire*</c></p>
+<p xid="27"><c></c></p>
+<p xid="28"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">PLAY : Action et manière de jouer</c></p>
+<p xid="29"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">*Vouloir faire =&gt; Savoir faire =&gt;Pouvoir faire*</c></p>
+<p xid="30"><c></c></p>
+<p xid="31"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Le gameplay nait de l’expérience du joueur dans le jeu.</c></p>
+<p xid="32"><c></c></p>
+<p xid="33"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Ages du jeu selon Piaget : </c></p>
+<p xid="34"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">1) Jeu d’exercice (0/2...99 ans)</c></p>
+<p xid="35"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">2) Jeu symbolique (2/10 ans) =&gt; Faire semblant</c></p>
+<p xid="36"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">3) Jeu de règles (6/99 ans)</c></p>
+<p xid="37"><c></c></p>
+<p xid="38"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Qu’est ce qu’un jeu  ? </c></p>
+<p xid="39"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">«Un jeu est une activité de résolution de problèmes, approchée avec une attitude joueuse» Jesse Schell, 2010, p.47</c></p>
+<p xid="40"><c></c></p>
+<p xid="41"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Voir les «Livres dont vous êtes le héros» suivi des jeux vidéos type ZORK</c></p>
+<p xid="42"><c></c></p>
+<p xid="43"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Jeu d’aventure textuel =&gt; Point n’click  =&gt; Walking Sim</c></p>
+<p xid="44"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">					    =&gt; Jeux d’aventure</c></p>
+<p xid="45"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">			 =&gt; Visual Novel =&gt; Bishojo &amp; Otome</c></p>
+<p xid="46"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">					     =&gt; Aventure</c></p>
+<p xid="47"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Les classiques du genre : Lucasfilm</c></p>
+<p xid="48"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Création du moteur SCUMM (Script Creation Utility for maniac Mansion)</c></p>
+<p xid="49"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">						</c></p>
+<p style="Heading 2" xid="1"><c props="lang:fr-FR"><pbr/></c></p>
+<p style="Heading 2" xid="4"><c props="lang:fr-FR"></c><c props="lang:fr-FR">Structure Narrative de récit</c></p>
+<p xid="2"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000"></c></p>
+<p xid="3"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">Identification de 31 fonctions de Propp</c></p>
+<p xid="5"><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; color:000000">=</c><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; ZN:000000">&gt;</c><c props="lang:fr-FR; font-size:12.000000pt; font-family:Times New Roman; 8#ʃ:000000"> </c><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">7 personnages récurrents</c></p>
+<p xid="50"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman"></c></p>
+<p xid="51"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">Schéma actanciel de Greimas</c></p>
+<p xid="52"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">6 actants 3 désirs</c></p>
+<p xid="53"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman"></c></p>
+<p xid="54"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">3 temporalités de récit : </c></p>
+<p xid="56"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">Objectif macro: long terme, objectif final</c></p>
+<p xid="57"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">Objectif intermédiaire: moyen terme (résoudre une quête, énigme, eliminer une menace)</c></p>
+<p xid="59"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">Objectif micro: ne pas se faire repérér, gagner un combat...</c></p>
+<p xid="60"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman"></c></p>
+<p xid="61"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">Le PROBLEME : «l’opposant» quelque soit sa forme nourrit l’intrigue du récit</c></p>
+<p xid="62"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman"></c></p>
+<p xid="63"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">Les 12 étaapes du voyage du héros</c></p>
+<p xid="64"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman"></c></p>
+<p xid="65"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">3 grands types de récit :</c></p>
+<p xid="66"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman">Epique(maintenant)/dramatique(trop tard)/épistémique(quête du savoir)</c></p>
+<p xid="68"><c props="lang:fr-FR; font-size:000000; font-family:Times New Roman"></c></p>
+<p style="Heading 3" xid="69"><c props="lang:fr-FR">Le visual novel</c></p>
+<p style="Normal" xid="71"><c props="lang:fr-FR">Jeu textuel très bavard, approche épistémique ou épique, dramatique.</c></p>
+<p style="Normal" xid="73"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="74"><c props="lang:fr-FR">Game structure linéaire:</c></p>
+<p style="Normal" xid="75"><c props="lang:fr-FR">1 seule fin, maitrise totale du parcous émotionnel du joueur mais grande linéarité qui peut rendre l’expérience très passive et trop proche de la lecture</c></p>
+<p style="Normal" xid="76"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="77"><c props="lang:fr-FR">Game structure en arborescence élaguée ou réseau dirigé:</c></p>
+<p style="Normal" xid="78"><c props="lang:fr-FR">choix multiples mais 1 seule fin, jeux Telltale, utilisation du choix illusoire, frustration potentielle du joueur qui comprned qu’il n’a pas de prise sur le déroulement des évènements, contrôle du déroulement du récit</c></p>
+<p style="Normal" xid="79"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="80"><c props="lang:fr-FR">Game structure en arborescence (multilinéarité)</c></p>
+<p style="Normal" xid="81"><c props="lang:fr-FR">plusieurs fins, exemple : psycho , le choix a un impact réel sur la structure narrative, le joueur a plus ou moins le sentiment de crréer l’histoire qu’il vit, mais le nombre de fins augmente très vite</c></p>
+<p style="Normal" xid="83"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="84"><c props="lang:fr-FR">Game structure linéaire «à éventail»</c></p>
+<p style="Normal" xid="85"><c props="lang:fr-FR">Déroulement du jeu identique mais la fin dépende des choix de réponses/actions faites en cours de jeu</c></p>
+<p style="Normal" xid="86"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="87"><c props="lang:fr-FR">Game structurre linéaire «à tiroirs» </c></p>
+<p style="Normal" xid="88"><c props="lang:fr-FR">Chaque fin se suffit à elle même, ou peut petre évitée pour atteindre la fin qui apporte toutes les résolutions à l’intrigue, 1 seule intrigue à rédiger</c></p>
+<p style="Normal" xid="89"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="90"><c props="lang:fr-FR">Game structure holistico-fragmentée(façon puzzle)</c></p>
+<p style="Normal" xid="91"><c props="lang:fr-FR">Structure à choix multiples, plusieurs fins mais 1 seule vrai fin, toute l’arborescence doit être explorée pour résoudre le mystère mis en jeu, contrôle de l’intrigue et exploration globale du jeu, travail de design difficile.</c></p>
+<p style="Normal" xid="92"><c props="lang:fr-FR"></c></p>
+<p style="Normal" xid="93"><c props="lang:fr-FR">Projet:</c></p>
+<p style="Normal" xid="95"><c props="lang:fr-FR">	- Personnage principal</c></p>
+<p style="Normal" xid="96"><c props="lang:fr-FR">	- Structure du récit</c></p>
+<p style="Normal" xid="97"><c props="lang:fr-FR">	- Genre de récit</c></p>
+<p style="Normal" xid="98"><c props="lang:fr-FR">	- Focalisation</c></p>
+<p style="Normal" xid="99"><c props="lang:fr-FR">	- Grammaire des choix</c></p>
+</section>
+</abiword>
